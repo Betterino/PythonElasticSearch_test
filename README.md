@@ -1,3 +1,3 @@
 # PythonElasticSearch_test
 Repository for interview task 
-To view sloution go to develop branch
+To view solution go to develop branch
